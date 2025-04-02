@@ -99,15 +99,32 @@ import Data from "./Data";
 // }
 // export default App;
 //=========================================inline css form object============================================================================================
-// 
+const data={
+   color:"red",
+   textDecoration:"underline",
+   fontsize:"40px"
+}
 
 const App=()=>{
    return(
       <>
-      <h1 className="data">Welcome To React!!!</h1>
-      <Cybrom/>
-      <Data/>
+      <h1 style={data}>Welcome To React!!!</h1>
+      
       </>
    )
 }
 export default App;
+
+//=========================================inline css form css file import main.jsx============================================================================================
+// 
+
+// const App=()=>{
+//    return(
+//       <>
+//       <h1 className="data">Welcome To React!!!</h1>
+//       <Cybrom/>
+//       <Data/>
+//       </>
+//    )
+// }
+// export default App;
