@@ -3,8 +3,7 @@
 // const age=11
 // const salary=35000
 
-import Cybrom from "./Cybrom";
-import Data from "./Data";
+
 
 
 // const App=()=>{
@@ -83,40 +82,41 @@ import Data from "./Data";
 // }
 // export default App;
 //====================================================inline css================================================================
-// const App=()=>{
-//    return(
-//       <>
-//       <div style={{border:"1px solid black",width:"300px" ,height:"200px",background:"yellow",borderRadius:"10px"}}>
-//          <div style={{border:"1px solid black",width:"200px" ,height:"130px",background:"red",borderRadius:"10px",margin:"40px"}}>
-//             <div style={{border:"1px solid black",width:"100px" ,height:"50px",background:"blue",borderRadius:"10px",margin:"30px",textAlign:"center",lineHeight:"3",marginLeft:"50px"}}>
-//                Cybrom
-//             </div>
-//          </div>
-//       </div>
-//       </>
-//    )
-
-// }
-// export default App;
-//=========================================inline css form object============================================================================================
-const data={
-   color:"red",
-   textDecoration:"underline",
-   fontsize:"40px"
-}
-
 const App=()=>{
    return(
       <>
-      <h1 style={data}>Welcome To React!!!</h1>
-      
+      <div style={{border:"1px solid black",width:"350px" ,height:"160px",background:"yellow",borderRadius:"20px",marginLeft:"35%"}}>
+         <div style={{border:"1px solid black",width:"300px" ,height:"120px",background:"red",borderRadius:"20px",margin:"20px"}}>
+            <div style={{border:"1px solid black",width:"250px" ,height:"60px",background:"blue",borderRadius:"10px",margin:"26px",textAlign:"center",lineHeight:"4",marginLeft:"26px",color:"white",fontFamily:"cursive"}}>
+               CYBROM
+            </div>
+         </div>
+      </div>
       </>
    )
+
 }
 export default App;
+//=========================================inline css form object============================================================================================
+// const data={
+//    color:"red",
+//    textDecoration:"underline",
+//    fontsize:"40px"
+// }
+
+// const App=()=>{
+//    return(
+//       <>
+//       <h1 style={data}>Welcome To React!!!</h1>
+      
+//       </>
+//    )
+// }
+// export default App;
 
 //=========================================inline css form css file import main.jsx============================================================================================
-// 
+// import Cybrom from "./Cybrom";
+// import Data from "./Data";
 
 // const App=()=>{
 //    return(
