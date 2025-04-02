@@ -1,0 +1,14 @@
+
+body{
+    background-color: darkgray;
+}
+#myid{
+    color: brown;
+    text-decoration: underline;
+}
+.data{
+    color: chocolate;
+}
+#btn{
+    color: white;
+}

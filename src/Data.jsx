@@ -5,7 +5,7 @@
 const Data=()=>{
     return(
       <>
-     <h1> data site</h1>
+     <h1 id="myid"> Data site</h1>
      </>
      )
    }

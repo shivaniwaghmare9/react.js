@@ -5,7 +5,7 @@
 const Footer=()=>{
     return(
       <>
-     <h1> this is footer</h1>
+     <h1> This is footer</h1>
      </>
      )
    }
