@@ -12,3 +12,7 @@ body{
 #btn{
     color: white;
 }
+#mycard{
+    display: flex;
+    justify-content: space-between;
+}
