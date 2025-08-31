@@ -281,17 +281,6 @@
 // export default App;
 
 //===============================================05-04-2025()================================================================================================
-// const App=()=>{
-//   return(
-//     <>
-//       <h1>Welcome To React Classes!!!!</h1>
-//       Enter your Name:<input type="text" /><br></br><br></br>
-//       Enter your Number:<input type="text" /><br></br><br></br>
-//       <button>Submit</button>
-//     </>
-//   )
-// }
-// export default App;
 const App=()=>{
   return(
     <>
