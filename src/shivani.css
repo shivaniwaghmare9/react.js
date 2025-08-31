@@ -1,4 +1,22 @@
-
+/* 
+body{
+    background-color: darkgray;
+}
+#myid{
+    color: brown;
+    text-decoration: underline;
+}
+.data{
+    color: chocolate;
+}
+#btn{
+    color: white;
+}
+#mycard{
+    display: flex;
+    justify-content: space-between;
+} */
+ 
 body{
     background-color: darkgray;
 }
